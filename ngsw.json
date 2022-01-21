@@ -1,0 +1,82 @@
+{
+  "configVersion": 1,
+  "timestamp": 1642751043157,
+  "index": "/n-puzzle/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/n-puzzle/favicon.ico",
+        "/n-puzzle/index.html",
+        "/n-puzzle/main-es2015.7cff1b65b972416b1f3e.js",
+        "/n-puzzle/main-es5.7cff1b65b972416b1f3e.js",
+        "/n-puzzle/manifest.webmanifest",
+        "/n-puzzle/polyfills-es2015.a0fa45e0fa52702b64f0.js",
+        "/n-puzzle/polyfills-es5.2dcde1efe3c1bf4aaa25.js",
+        "/n-puzzle/runtime-es2015.993ec2237ea5fdddbf19.js",
+        "/n-puzzle/runtime-es5.993ec2237ea5fdddbf19.js",
+        "/n-puzzle/styles-es2015.73c88b42c8c0ea9fd64b.js",
+        "/n-puzzle/styles-es5.73c88b42c8c0ea9fd64b.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/n-puzzle/assets/icons/icon-128x128.png",
+        "/n-puzzle/assets/icons/icon-144x144.png",
+        "/n-puzzle/assets/icons/icon-152x152.png",
+        "/n-puzzle/assets/icons/icon-192x192.png",
+        "/n-puzzle/assets/icons/icon-384x384.png",
+        "/n-puzzle/assets/icons/icon-512x512.png",
+        "/n-puzzle/assets/icons/icon-72x72.png",
+        "/n-puzzle/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/n-puzzle/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/n-puzzle/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/n-puzzle/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/n-puzzle/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/n-puzzle/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/n-puzzle/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/n-puzzle/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/n-puzzle/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/n-puzzle/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/n-puzzle/index.html": "0aa6b0702e6908147bb68eccd7eba05fad3e58a5",
+    "/n-puzzle/main-es2015.7cff1b65b972416b1f3e.js": "dd67e87fd14537c8e442756369b6f01527801c24",
+    "/n-puzzle/main-es5.7cff1b65b972416b1f3e.js": "4b6bda2b700f6c5c5ce3564765acfa2617b6da33",
+    "/n-puzzle/manifest.webmanifest": "7bc85b46dc3e6704a83c4003cec5d1f107a46cab",
+    "/n-puzzle/polyfills-es2015.a0fa45e0fa52702b64f0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/n-puzzle/polyfills-es5.2dcde1efe3c1bf4aaa25.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "/n-puzzle/runtime-es2015.993ec2237ea5fdddbf19.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/n-puzzle/runtime-es5.993ec2237ea5fdddbf19.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/n-puzzle/styles-es2015.73c88b42c8c0ea9fd64b.js": "23806d7613767984969574f2252ab22e51e9e825",
+    "/n-puzzle/styles-es5.73c88b42c8c0ea9fd64b.js": "23806d7613767984969574f2252ab22e51e9e825"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
